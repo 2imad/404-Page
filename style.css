@@ -1,0 +1,25 @@
+html:hover{
+  background-color: #e3deda;
+  border-radius: 6px;
+
+ }
+img{
+    height: 600px;
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    opacity: 1.0;
+
+}
+img{width:50%}
+
+.text{
+  text-align: center;
+  font-family: Arial;
+  font-size: 200%;
+}
+.button{
+  text-align:center;
+}
